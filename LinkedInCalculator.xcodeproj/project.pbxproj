@@ -11,6 +11,8 @@
 		3FD5136029AD9DC500C45FD9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD5135F29AD9DC500C45FD9 /* ContentView.swift */; };
 		3FD5136229AD9DCA00C45FD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FD5136129AD9DCA00C45FD9 /* Assets.xcassets */; };
 		3FD5136529AD9DCA00C45FD9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FD5136429AD9DCA00C45FD9 /* Preview Assets.xcassets */; };
+		3FD5136E29ADB42300C45FD9 /* TotalText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD5136D29ADB42300C45FD9 /* TotalText.swift */; };
+		3FD5137029ADB60000C45FD9 /* CalcButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD5136F29ADB60000C45FD9 /* CalcButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		3FD5135F29AD9DC500C45FD9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3FD5136129AD9DCA00C45FD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FD5136429AD9DCA00C45FD9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3FD5136D29ADB42300C45FD9 /* TotalText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalText.swift; sourceTree = "<group>"; };
+		3FD5136F29ADB60000C45FD9 /* CalcButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				3FD5135D29AD9DC500C45FD9 /* LinkedInCalculatorApp.swift */,
 				3FD5135F29AD9DC500C45FD9 /* ContentView.swift */,
+				3FD5136D29ADB42300C45FD9 /* TotalText.swift */,
+				3FD5136F29ADB60000C45FD9 /* CalcButton.swift */,
 				3FD5136129AD9DCA00C45FD9 /* Assets.xcassets */,
 				3FD5136329AD9DCA00C45FD9 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				3FD5136029AD9DC500C45FD9 /* ContentView.swift in Sources */,
 				3FD5135E29AD9DC500C45FD9 /* LinkedInCalculatorApp.swift in Sources */,
+				3FD5137029ADB60000C45FD9 /* CalcButton.swift in Sources */,
+				3FD5136E29ADB42300C45FD9 /* TotalText.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
