@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3FB92D4229B3077B009673DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		3FD5135A29AD9DC500C45FD9 /* LinkedInCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LinkedInCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FD5135D29AD9DC500C45FD9 /* LinkedInCalculatorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedInCalculatorApp.swift; sourceTree = "<group>"; };
 		3FD5135F29AD9DC500C45FD9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +56,7 @@
 		3FD5135C29AD9DC500C45FD9 /* LinkedInCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				3FB92D4229B3077B009673DD /* Info.plist */,
 				3FD5135D29AD9DC500C45FD9 /* LinkedInCalculatorApp.swift */,
 				3FD5135F29AD9DC500C45FD9 /* ContentView.swift */,
 				3FD5136D29ADB42300C45FD9 /* TotalText.swift */,
@@ -278,6 +280,7 @@
 				DEVELOPMENT_TEAM = ZT8389KJND;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LinkedInCalculator/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -307,6 +310,7 @@
 				DEVELOPMENT_TEAM = ZT8389KJND;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = LinkedInCalculator/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
